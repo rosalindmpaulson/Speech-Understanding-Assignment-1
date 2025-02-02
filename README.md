@@ -5,5 +5,7 @@
 - Question 2 Task B report and codes are uploaded in the branch Question-2-Task-B
 
 Question 1.ipynb file list some python examples of implementing Cross-Language Emotion Detection
+
 Speech_Understanding_Assignment_1.pdf is the report for Question 1 of the assignment
+
 Cross Language Emotion Detection.pptx is the presentation
